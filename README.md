@@ -16,6 +16,8 @@ The deployment can only be made possible only and only if the previous steps are
 
 ## How To Contribute
 
+Contribution is subject to agreement.
+
 ###Copyright
 
 Copyright Notice.
