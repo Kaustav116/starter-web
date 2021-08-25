@@ -15,3 +15,7 @@ The purpose is the same as stated above.
 The deployment can only be made possible only and only if the previous steps are followed sequentially.
 
 ## How To Contribute
+
+###Copyright
+
+Copyright Notice.
