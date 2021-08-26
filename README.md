@@ -20,4 +20,4 @@ Contribution is subject to agreement.
 
 ###Copyright
 
-Copyright Notice.
+Copyright Notice. All rights reserved.
