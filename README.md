@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is created for the sole purpose of understanding the working of a particular concept. The concept is quite interesting, but quite confusing also at times. Hence it can be tedious according to scenario.
+This is created for the sole purpose of understanding the working of a particular concept. The concept is quite interesting, but quite confusing also at times. Hence it can be tedious according to scenario. However the whole journey is quite intriguing and memorable.
 
 ## Introduction
 
